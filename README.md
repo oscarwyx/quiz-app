@@ -1,40 +1,49 @@
-Oscar
-## Welcome to GitHub Pages
+# Yongxu's Github Protfolio Page
+My name is Yongxu Wang, you can also call me Oscar, I am senior student in University of Delaware, I am double majored in Applied mathematics (BS) and Computer Science(BA). I come from Beijing, China. I also have three cute cats. 
 
-You can use the [editor on GitHub](https://github.com/oscarwyx/oscarwyx.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Info
+1.Name: Yongxu Wang (Oscar)
+2.Email: oscarwyx@udel.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Portfolio
+1.Basics of the Web (HTML, CSS, JavaScript)
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/ (Links to an external site.)
+  
+2.Visual Studio Code
+  Good tutorial for installing VS Code, NodeJS, and TypeScript: https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started (Links to an     external site.)
+  MAC Users: Not sure if I trust their install script for Node, you might just download directly: https://nodejs.org/en/download/
 
-### Markdown
+3.TypeScript
+  https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html (Links to an external site.)
+  Book: https://www.oreilly.com/library/view/programming-typescript/9781492037644/ (Links to an external site.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4.React (+Hooks)
+  https://reactjs.org/tutorial/tutorial.html (Links to an external site.)
+  https://reactjs.org/docs/hooks-intro.html (Links to an external site.)
+  Book: https://www.oreilly.com/library/view/learn-react-with/9781789610253/ (Links to an external site.)
 
-```markdown
-Syntax highlighted code block
+5.Git
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/how-to-start-using-git/ (Links to an external site.)
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/git-cookbook/ (Links to an external site.)
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/git-teamwork/ (Links to an external site.)
 
-# Header 1
-## Header 2
-### Header 3
+6.Bootstrap
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/ (Links to an external site.)
 
-- Bulleted
-- List
+7.Requirements Gathering
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/requirements-gathering/ (Links to an external site.)
 
-1. Numbered
-2. List
+8.User Interface Design
+  https://sun.iwu.edu/~mliffito/cs_codex/posts/user-interface-design/ (Links to an external site.)
 
-**Bold** and _Italic_ and `Code` text
+9.Deploying with GitHub Pages
+  React App: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f (Links to an external site.)
+  Trivial Markdown: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages (Links to an external site.)
 
-[Link](url) and ![Image](src)
-```
+10.Testing
+  Jest Tutorial: https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing (Links to an external site.)
+  Jest+React Tutorial: https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/ (Links to an external site.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarwyx/oscarwyx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
