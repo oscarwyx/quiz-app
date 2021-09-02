@@ -12,7 +12,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
   
 2.Visual Studio Code
   Good tutorial for installing VS Code, NodeJS, and TypeScript: [Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started) (Links to an     external site.)
-  MAC Users: Not sure if I trust their install script for Node, you might just download directly: [link](https://nodejs.org/en/download/)
+  MAC Users: Not sure if I trust their install script for Node, you might just download directly: [Link](https://nodejs.org/en/download/)
 
 3.TypeScript
   [Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) (Links to an external site.)
