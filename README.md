@@ -10,7 +10,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 
 4.Repository: [Source code](http://github.com/oscarwyx/oscarwyx.github.io/edit/main/README.md)
 
-5. GitHub:[http://github.com/oscarwyx]
+5.GitHub:[http://github.com/oscarwyx]
 
 
 ### Portfolio
