@@ -1,6 +1,9 @@
 # Yongxu's Github Protfolio Page
 My name is Yongxu Wang, you can also call me Oscar, I am senior student in University of Delaware, I am double majored in Applied mathematics (BS) and Computer Science(BA). I come from Beijing, China. I also have three cute cats. 
 
+## [Change Log]
+## [ToDo]
+
 ## Info
 1.Name: Yongxu Wang (Oscar)
 
