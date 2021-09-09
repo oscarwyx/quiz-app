@@ -31,3 +31,4 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 ### TypeScript learning
 * Basic elements of Typescript, type,typeof,interface,let,declare,object.
 * How to write function with Typescript.
+* Typescript learning progress:[link]()
