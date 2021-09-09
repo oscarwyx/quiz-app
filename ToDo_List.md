@@ -8,3 +8,4 @@
 * Sept 7th-9th:
    * Start HTML Tutorial
    * Try to make a easy webpage by HTML
+   * Start learning with Typescript.
