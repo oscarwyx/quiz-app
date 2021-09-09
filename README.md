@@ -28,6 +28,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 * How to add table & list.
 * How to change the style of body/header/paragraph for color,font-size.
 * I make a easy webpage about my car. Here is the:[link to my webpage code](https://github.com/oscarwyx/oscarwyx.github.io/blob/main/oscarwebpage.html)
+* Here is the link to the webpage:[link](https://oscarwyx.github.io/oscarwebpage.html)
 ### TypeScript learning
 * Ts toturial: [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
 * Basic elements of Typescript, type,typeof,interface,let,declare,object.
