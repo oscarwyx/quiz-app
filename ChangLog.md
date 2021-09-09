@@ -4,3 +4,4 @@
 * Sept 4th: Corrected the link of repo by following the instruction from TA.
 * Sept 8th: Set up ChangLog and Todo list.
 * Sept 8th: Modified ChangLog and Todo LIst.
+* Sept 8th: Add html learning section to Portfolio; Created a new repo for oscarwebpage.html with html code.
