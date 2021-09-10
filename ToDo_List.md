@@ -9,3 +9,7 @@
    * Start HTML Tutorial
    * Try to make a easy webpage by HTML
    * Start learning with Typescript.
+* Sept 10th-:
+   * Keep working with HTML
+   * Learning more about TypeScript
+   * Get start with something new( haven't decided now)
