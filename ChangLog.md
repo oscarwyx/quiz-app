@@ -6,3 +6,4 @@
 * Sept 8th: Modified ChangLog and Todo LIst.
 * Sept 8th: Add html learning section to Portfolio; Created a new repo for oscarwebpage.html with html code.
 * Sept 9th: Add progress file of TS learning. Something easy, just following the toturial.
+* Sept 14th: Add progress of git leaning in protfolio
