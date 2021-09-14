@@ -13,3 +13,4 @@
    * Keep working with HTML
    * Learning more about TypeScript
    * Get start with Git.
+   * Get start with React.
