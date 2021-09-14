@@ -14,3 +14,4 @@
    * Learning more about TypeScript
    * Get start with Git.
    * Get start with React.
+   * Add Git tutourial and React tutorial to protfolio
