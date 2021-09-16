@@ -40,4 +40,4 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 * Git remote: clone, fetch, pull
 ### JavaScript learnning
 * Use Javascript improve my oscarwepage.[oscarwebpage](https://oscarwyx.github.io/oscarwebpage.html)
-* Use Javascript write a easy program. [Javascript practice]()
+* Use Javascript write a easy program. [Javascript practice](https://oscarwyx.github.io/jspractice.html)
