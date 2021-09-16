@@ -15,6 +15,6 @@
    * Keep working with HTML
    * Learning more about TypeScript
    * Get start with Git.
-   * Get start with React.
+   * Get start with React[Tutorial](https://reactjs.org/tutorial/tutorial.html)
    * Add Git tutourial and React tutorial to protfolio
    * Improve my webpage with Javascript
