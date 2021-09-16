@@ -13,7 +13,7 @@
 ## MileStone 2
 * Sept 10th-16th:
    * Keep working with HTML
-   * Learning more about TypeScript
+   * Learning more about TypeScript.[link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
    * Get start with Git.[Git Tutorial Link](https://learngitbranching.js.org/?locale=zh_CN)
-   * Get start with React.[React Tutorial Link](https://reactjs.org/tutorial/tutorial.html)
-   * Learn JS and mprove my webpage with Javascript.[JS Tutorial Link](https://www.w3schools.com/js/default.asp)
+   * Get start with React.[React Tutorial Link](https://reactjs.org/tutorial/tutorial.html)[another tutorial](https://www.w3schools.com/REACT/DEFAULT.ASP)
+   * Learn JS and improve my webpage with Javascript: add buttons.[JS Tutorial Link](https://www.w3schools.com/js/default.asp)
