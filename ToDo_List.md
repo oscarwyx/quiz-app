@@ -15,3 +15,4 @@
    * Get start with Git.
    * Get start with React.
    * Add Git tutourial and React tutorial to protfolio
+   * Improve my webpage with Javascript
