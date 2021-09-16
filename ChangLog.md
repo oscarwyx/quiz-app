@@ -14,12 +14,12 @@
   * Add print page function for whole page
   * Add nevigation bar, but its function is more like a link to other webpage, haven't put any inner connnect to it. New button can go to Porsche news webapage.
   * Add switch button for first picture and second picture.
-    ** Add new picture "see it from tail" for switching.
-    ** Add new picture "see the engine" for switching.
+    * Add new picture "see it from tail" for switching.
+    * Add new picture "see the engine" for switching.
   * Add "GT3RS" Part: 
-    ** add button to see GT3RS picture
-    ** embeded GT3RS video on the webpage 
-    ** add button go to GT3RS price page
+    * add button to see GT3RS picture
+    * embeded GT3RS video on the webpage 
+    * add button go to GT3RS price page
   * Change new backgroud image.
   * Change new font style.
 * Sept 16th: Upload latest version of oscarwebpage.[link](https://oscarwyx.github.io/oscarwebpage.html)
