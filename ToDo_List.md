@@ -14,6 +14,6 @@
 * Sept 10th-16th:
    * Keep working with HTML
    * Learning more about TypeScript
-   * Get start with Git.[Tutorial Link](https://learngitbranching.js.org/?locale=zh_CN)
-   * Get start with React.[Tutorial Link](https://reactjs.org/tutorial/tutorial.html)
-   * Learn JS and mprove my webpage with Javascript.[Tutorial Link](https://www.w3schools.com/js/default.asp)
+   * Get start with Git.[Git Tutorial Link](https://learngitbranching.js.org/?locale=zh_CN)
+   * Get start with React.[React Tutorial Link](https://reactjs.org/tutorial/tutorial.html)
+   * Learn JS and mprove my webpage with Javascript.[JS Tutorial Link](https://www.w3schools.com/js/default.asp)
