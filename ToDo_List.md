@@ -9,6 +9,8 @@
    * Start HTML Tutorial
    * Try to make a easy webpage by HTML
    * Start learning with Typescript.
+
+## MileStone 2
 * Sept 10th-16th:
    * Keep working with HTML
    * Learning more about TypeScript
