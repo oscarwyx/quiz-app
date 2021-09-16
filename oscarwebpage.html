@@ -1,15 +1,50 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:gray">
+<font color="white">
+<body style="background-image:url('https://i.pinimg.com/originals/6e/40/af/6e40af0e1d92c2f87817d6a06dfe3edb.jpg')">
 
-<h1>Oscar's cars Page</h1>
+<h1>
+<center>Oscar's cars Page</center>
+</h1>
+
 <h2>Image of Oscar's cars</h2>
+<p id="demo"></p>
 
-<img src="https://bringatrailer.com/wp-content/uploads/2018/04/5acd2f6f187f9_182057.jpg?fit=940%2C523" alt="2013 911 carrera" >
-<img src="https://cdn.dealeraccelerate.com/ecpch/2/645/27354/790x1024/w/2013-porsche-911-carrera-s-coupe" alt="2013 911 carrera">
+<script>
+var carName = "2013 Porsche 911 Carrera";
+document.getElementById("demo").innerHTML = carName;
+</script>
 
+<img id="mycarImage" src="https://bringatrailer.com/wp-content/uploads/2018/04/5acd2f6f187f9_182057.jpg?fit=940%2C523" alt="2013 911 carrera" >
 
-<h3>Car description</h3>
+<button 
+onclick="document.getElementById('mycarImage').src='https://bringatrailer.com/wp-content/uploads/2018/04/5acd2f6f187f9_182057.jpg?fit=940%2C523'">General look
+</button>
+
+<button 
+onclick="document.getElementById('mycarImage').src='http://cdn.shopify.com/s/files/1/1429/9246/products/awe_991_tips_black_34_1280_1024x1024.jpg?v=1527265029'">See it from tail
+</button>
+
+<img id="mycarImage1" src= "https://cdn.dealeraccelerate.com/ecpch/2/645/27354/790x1024/w/2013-porsche-911-carrera-s-coupe" alt="2013 911 carrera">
+
+<button 
+onclick="document.getElementById('mycarImage1').src='https://cdn.dealeraccelerate.com/ecpch/2/645/27354/790x1024/w/2013-porsche-911-carrera-s-coupe'">General look
+</button>
+
+<button 
+onclick="document.getElementById('mycarImage1').src='https://content.homenetiol.com/1024x768/0779a4cf28844489bf9967ad59cce481.jpg'">See the engine
+</button>
+
+<h2>Car Interior</h2>
+<img src="https://cdn.shopify.com/s/files/1/0023/6686/5507/products/PORSCHE911Carrera4S-991--4658_26_1024x1024.jpg?v=1581434627" style="display:none" id="interior">
+<button 
+type="button" onclick="document.getElementById('interior').style.display='block'">See Interior!
+</button>
+<button 
+type="button" onclick="document.getElementById('interior').style.display='none'">hidePic
+</button>
+
+<h2>Car description</h2>
 <p style="font-size:105%;">Oscar's car is a 2013 Porsche 911 carrera. The exterior color is black and interior color is  black. The transmission is 7-speed manual gear. The engine is 3.4 litter flat six cylinders engine with 350 HP. The mpg is around 16-23.</p>
 <table>
 
@@ -42,11 +77,38 @@ table, th, td {
 
 </table>
 
+<h2>Video for this car</h2>
+<button onclick="location.href='https://www.youtube.com/watch?v=GWPgq6wewxc';">
+Check the video
+</button>
+
 <h2>Wikipidiea for this car</h2>
-<a href="https://en.wikipedia.org/wiki/Porsche_991"target="_blank">Wiki Link</a>
+
+<button onclick="location.href='https://en.wikipedia.org/wiki/Porsche_991';">
+Wiki Link
+</button>
 
 <h2> Similar car price on the market</h2>
-<a href="https://www.cars.com/shopping/results/?dealer_id=&exterior_color_slugs[]=black&interior_color_slugs[]=black&keyword=&list_price_max=&list_price_min=&makes[]=porsche&maximum_distance=all&mileage_max=&models[]=porsche-911&page_size=20&sort=best_match_desc&stock_type=used&transmission_slugs[]=manual&trims[]=porsche-911-carrera&year_max=2013&year_min=2013&zip=19711"target="_blank">Market price</a>
+<button onclick="location.href='https://www.cars.com/shopping/results/?dealer_id=&exterior_color_slugs[]=black&interior_color_slugs[]=black&keyword=&list_price_max=&list_price_min=&makes[]=porsche&maximum_distance=all&mileage_max=&models[]=porsche-911&page_size=20&sort=best_match_desc&stock_type=used&transmission_slugs[]=manual&trims[]=porsche-911-carrera&year_max=2013&year_min=2013&zip=19711';">
+$Market Price$
+</button>
+
+<h2>Modify plan</h2>
+<p>911 GT3RS is too expensive to buy it and park it in the garage.</p>
+<button onclick="location.href='https://www.cars.com/shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes[]=porsche&maximum_distance=all&mileage_max=&models[]=porsche-911&page_size=20&sort=best_match_desc&stock_type=used&trims[]=porsche-911-gt3_rs&year_max=&year_min=&zip=19711';">
+GT3RS Price
+</button>
+<p>But is possible to modify my carrera have the same out look with GT3RS.</p>
+
+<img src="https://f7432d8eadcf865aa9d9-9c672a3a4ecaaacdf2fee3b3e6fd2716.ssl.cf3.rackcdn.com/C2299/U8719/IMG_43032-large.jpg" style="display:none" id="GT3RS">
+<button 
+type="button" onclick="document.getElementById('GT3RS').style.display='block'">See GT3RS!
+</button>
+<h2>View GT3RS in video</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hTLk1rU_ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>Want to have a copy of this page</h2>
+<p>Click the button to print this page.</p>
+<button onclick="window.print()">Print this page</button>
 
 </body>
 </html>
