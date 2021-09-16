@@ -17,3 +17,4 @@
    * Get start with Git.[Git Tutorial Link](https://learngitbranching.js.org/?locale=zh_CN)
    * Get start with React.[React Tutorial Link](https://reactjs.org/tutorial/tutorial.html)[another tutorial](https://www.w3schools.com/REACT/DEFAULT.ASP)
    * Learn JS and improve my webpage with Javascript: add buttons.[JS Tutorial Link](https://www.w3schools.com/js/default.asp)
+   * Work with oscarwebpage's navigation bar, improve its function, try to figure how to build connection inside the webpage.[how to build navigation bar](https://www.w3schools.com/css/css_navbar.asp)
