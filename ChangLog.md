@@ -31,3 +31,7 @@
   * Add second click function, after second click, the previous text disappear, show new text "Thank you"
   * Add second click function, after third click, get new text "Bye Bye".
   * Add final click function, the whole block disappear.
+ * Sept 16th: 
+  * Start learning react and do some easy coding for be familiar with react format.
+  * My practice react page.
+    * [reactprac.html](https://oscarwyx.github.io/reactprac.html) 
