@@ -13,16 +13,16 @@
 ## MileStone 2
 * Sept 10th-12h:
    * Keep working with HTML, continue learing with HTML toturial for 20 miutes.
-      * [link](https://www.w3schools.com/html/default.asp)
+      * [HTML tutorial link](https://www.w3schools.com/html/default.asp)
    * Learning 30 minutes about TypeScript with online tutorial.
-      * [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+      * [TS tutorial link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
    * Get start with Git.Spend 40 minutes with git tutorial to learn how git works.
       * [Git Tutorial Link](https://learngitbranching.js.org/?locale=zh_CN)
 * Sept 13th-16th:
    * Get start with React.Learn with tutorial and video in 1 hr.
       * [React Tutorial Link](https://reactjs.org/tutorial/tutorial.html)
-      * [another tutorial](https://www.w3schools.com/REACT/DEFAULT.ASP)
-      * [Video link](https://www.bilibili.com/video/BV1Sb411P79t?p=1)
+      * [Another React tutorial](https://www.w3schools.com/REACT/DEFAULT.ASP)
+      * [React Video tutorial link](https://www.bilibili.com/video/BV1Sb411P79t?p=1)
    * Learn JS from tutorial with 30 minutes, practice JS coding for 30 minutes, improve my webpage with Javascript with 20 minutes: add buttons.
       * [JS Tutorial Link](https://www.w3schools.com/js/default.asp)
    * Learn how CSS can style a webpage's content and use it to improve my webpage. Learn CSS with online tutorial in 20 minutes, learning foundermental function first.
