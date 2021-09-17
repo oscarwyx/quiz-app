@@ -41,3 +41,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 ### JavaScript learnning
 * Use Javascript improve my oscarwepage.[oscarwebpage](https://oscarwyx.github.io/oscarwebpage.html)
 * Use Javascript write a easy program. [Javascript practice](https://oscarwyx.github.io/jspractice.html)
+### React Learning
+* Use video tutorial[link](https://www.bilibili.com/video/BV1Sb411P79t?p=2)
+* Use React online tutorial[link](https://www.w3schools.com/REACT/DEFAULT.ASP)
+* Do my first try of React.[link](https://oscarwyx.github.io/reactprac.html)
