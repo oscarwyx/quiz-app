@@ -36,3 +36,4 @@
   * My practice react page.
     * [reactprac.html](https://oscarwyx.github.io/reactprac.html) 
 * Sept 21th: Clone repo to VScode.
+* Sept 21th: Add contact and about part to oscarwebpage
