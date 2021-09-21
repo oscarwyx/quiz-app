@@ -1,5 +1,51 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="https://www.porsche.com/usa/?utm_source=google&utm_campaign=pcna_2019-09-09_fy20aon_general_core&utm_medium=paid&utm_term=brand&utm_content=ad&campaigntype=engagement&campaigncategory=brand_marketing&campaigntiming=sustain&campaignmodel=no_model&campaignmodeltype=new_car&displaycampaigntargeting=keyword&displaycampaignbuying=self-service&displaycampaignmetric=cpc&gclid=Cj0KCQjw1ouKBhC5ARIsAHXNMI_BLCiJS0fGWaDf69VRLUZuh3V3WIFQGlgIrN6AGKV4Z0c4SuWEna4aApROEALw_wcB&gclsrc=aw.ds">Porsche</a></li>
+  <li><a href="https://newsroom.porsche.com/en.html">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li style="float:right"><a href="#about">About</a></li>
+</ul>
+
+</body>
 <font color="white">
 <body style="background-image:url('https://i.pinimg.com/originals/6e/40/af/6e40af0e1d92c2f87817d6a06dfe3edb.jpg')">
 <style>
@@ -39,7 +85,6 @@ onclick="document.getElementById('mycarImage1').src='https://cdn.dealeraccelerat
 <button 
 onclick="document.getElementById('mycarImage1').src='https://content.homenetiol.com/1024x768/0779a4cf28844489bf9967ad59cce481.jpg'">See the engine
 </button>
-
 <img id="img1" src="https://www.pcarforsale.com/wp-content/uploads/2019/08/02porschecarrera-1024x576.jpg?x54819" />
 <img id="img2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvVbMHr3a2loU78I8729CaSuRwpi9kdIz6IzAM6OqO71eDT9ntQ3uOtnvc3E7A1O0ee8&usqp=CAU" />
 
@@ -55,7 +100,7 @@ onclick="document.getElementById('mycarImage1').src='https://content.homenetiol.
         img2.style.display = "none";
       }
 </script>
-   
+
 <h2>Car Interior</h2>
 <img src="https://cdn.shopify.com/s/files/1/0023/6686/5507/products/PORSCHE911Carrera4S-991--4658_26_1024x1024.jpg?v=1581434627" style="display:none" id="interior">
 <button 
@@ -130,6 +175,8 @@ type="button" onclick="document.getElementById('GT3RS').style.display='block'">S
 <h2>Want to have a copy of this page</h2>
 <p>Click the button to print this page.</p>
 <button onclick="window.print()">Print this page</button>
+
+
 
 </body>
 </html>

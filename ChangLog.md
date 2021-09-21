@@ -35,3 +35,4 @@
   * Start learning react and do some easy coding for be familiar with react format.
   * My practice react page.
     * [reactprac.html](https://oscarwyx.github.io/reactprac.html) 
+* Sept 21th: Clone repo to VScode.
