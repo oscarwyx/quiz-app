@@ -1,0 +1,64 @@
+index.css
+body {
+  font-family: Futura,Trebuchet,Arial,sans-serif;
+    margin: 20px;
+  }
+  
+  ol, ul {
+    padding-left: 50px;
+  }
+  
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
+  .status {
+    /* space to top */
+    margin-bottom: 80px;
+  }
+  
+  .square {
+    background: rgb(0, 255, 13);
+    border: 0.5px solid rgb(98, 0, 255);
+
+    float: left;
+
+    font-size: 90px;
+    font-weight: bold;
+
+    line-height: 0px;
+    
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0;
+
+    text-align: center;
+
+    width: 100px;
+    height: 100px;
+    
+  
+  }
+  
+  .square:focus {
+    outline: none;
+  }
+  
+  .kbd-navigation .square:focus {
+    /* "X"*/
+    background: rgb(120, 122, 243);
+  }
+  
+  .game {
+    /* in the top mid of the page*/
+    justify-content: center; 
+    display: flex;
+
+    flex-direction: row;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+  }
