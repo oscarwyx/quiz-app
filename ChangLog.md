@@ -35,5 +35,6 @@
   * Start learning react and do some easy coding for be familiar with react format.
   * My practice react page.
     * [reactprac.html](https://oscarwyx.github.io/reactprac.html) 
-* Sept 21th: Clone repo to VScode.
+* Sept 21th: Clone repo to VScode. Learn how to use VScode and connect VScode with Github.
 * Sept 21th: Add contact and about part to oscarwebpage
+* Sept 22th: Following the react online tutorial work with Tic-Tac-Toe app.[Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html)

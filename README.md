@@ -41,8 +41,23 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 ### JavaScript learnning
 * Use Javascript improve my oscarwepage.[oscarwebpage](https://oscarwyx.github.io/oscarwebpage.html)
 * Use Javascript write a easy program. [Javascript practice](https://oscarwyx.github.io/jspractice.html)
+* 
 ### React Learning
 * Download react enviroment on my laptop.
 * Use video tutorial[link](https://www.bilibili.com/video/BV1Sb411P79t?p=2)
+    * learn what is react in Chapter 1.
+    * learn JS element in Chapter 2, include 
+        * let vs Var vs const
+        * Object
+        * this keyward
+        * binding rhis
+        * Arrow function
+        * Array map method
+        * Object destructor
+        * Class
+        * Inheritance
+        * Modules
+        * Named and Default
 * Use React online tutorial[link](https://www.w3schools.com/REACT/DEFAULT.ASP)
 * Do my first try of React.[link](https://oscarwyx.github.io/reactprac.html)
+

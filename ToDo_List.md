@@ -31,3 +31,7 @@
       * [how to build navigation bar](https://www.w3schools.com/css/css_navbar.asp)
       * [video for how to link navigation bar and html page](https://www.google.com/search?q=how+does+navigation+bar+connect+with+webpage+content&oq=how+does+navigation+bar+connect+with+webpage+con&aqs=chrome.1.69i57j33i10i160l5.19015j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_zNRDYeLNJPul5NoPhNeQ-AE16)
    * Try to make a half-completed webapage before sept 16th.(Stilling working on it)
+## Milestone 3
+* Sept 17-19th
+   * Learn React with online tutorial and coding with Tic-Tec-Toe app.[Tic-Tex-Toe](https://reactjs.org/tutorial/tutorial.html)
+   * Learn react with video tutorial

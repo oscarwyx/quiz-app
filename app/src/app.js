@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './app.css';
 //import './acutcat.png';
 
 function App() {
