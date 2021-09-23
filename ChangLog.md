@@ -45,7 +45,7 @@
     * Add handleIncrement arrow function for update state.
     * Add getBadgeClasses function for change background color in different condition
     * Add formatCount function for change print text in different condition.
-    * [link to counter-app code]()
+    * [link to counter-app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app)
   * import services folder as fake database, including fakeGenreSevice.js and fakeMoviesService.js
   * creat vidly for movie table delete.
    * Create components foloder.
