@@ -35,3 +35,6 @@
 * Sept 17-19th
    * Learn React with online tutorial and coding with Tic-Tec-Toe app.[Tic-Tex-Toe](https://reactjs.org/tutorial/tutorial.html)
    * Learn React with video tutorial
+* Sept 20-23th
+   * Do react app follow the instruction of video tutorial
+   * Link react local host 3000 with github.
