@@ -60,4 +60,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
         * Named and Default
 * Use React online tutorial[link](https://www.w3schools.com/REACT/DEFAULT.ASP)
 * Do my first try of React.[link](https://oscarwyx.github.io/reactprac.html)
+* Follow the construction of vidoe tutorial, created two react app, counter & vildy.
+    * Counter did the counter job
+    * Vildy is a database of movies which can be delated by delete button.
 

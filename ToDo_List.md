@@ -34,4 +34,4 @@
 ## Milestone 3
 * Sept 17-19th
    * Learn React with online tutorial and coding with Tic-Tec-Toe app.[Tic-Tex-Toe](https://reactjs.org/tutorial/tutorial.html)
-   * Learn react with video tutorial
+   * Learn React with video tutorial
