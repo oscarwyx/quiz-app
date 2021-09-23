@@ -39,9 +39,10 @@
    * Do react app follow the instruction of video tutorial
    * Counter-app haven't finished, have increment reaction function but haven't connect with product information. So the condition is cannot compile.
    * Finsih vidly componment. 
-      * Have movies inthe database. 
+      * Have movies in the database. 
       * Have a table to show all information. 
       * It can do delete function with click delete button
       * It can update how many movies remain in the database. 
       * I try to link it with github page, but failed, so I make a video on youtube.[Youtube](https://www.youtube.com/watch?v=rIbAbDVtj6c)
    * Link react local host 3000 with github.=> I have try, but faild.
+   * Coding with video tutorial in Chapter 4.
