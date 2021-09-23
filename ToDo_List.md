@@ -34,7 +34,9 @@
 ## Milestone 3
 * Sept 17-19th
    * Learn React with online tutorial and coding with Tic-Tec-Toe app.[Tic-Tex-Toe](https://reactjs.org/tutorial/tutorial.html)
-   * Learn React with video tutorial
+   * Learn React with video tutorial.[link](https://www.bilibili.com/video/BV1Sb411P79t?p=1)
 * Sept 20-23th
    * Do react app follow the instruction of video tutorial
+   * Counter-app haven't finished, have increment reaction function but haven't connect with product information. So the condition is cannot compile.
+   * Finsih vidly componment. Have movies inthe database. Have a table to show all information. It can do delete function with click delete button and update how many movies remain in the database. I try to link it with github page, but failed, so I make a video on youtube.[Youtube](https://www.youtube.com/watch?v=rIbAbDVtj6c)
    * Link react local host 3000 with github.
