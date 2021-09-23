@@ -45,7 +45,7 @@
     * Add handleIncrement arrow function for update state.
     * Add getBadgeClasses function for change background color in different condition
     * Add formatCount function for change print text in different condition.
-    * [link to counter-app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app)
+    * [link to counter-app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app).
   * import services folder as fake database, including fakeGenreSevice.js and fakeMoviesService.js
   * creat vidly for movie table delete.
    * Create components foloder.
@@ -53,5 +53,6 @@
      * Add information for no movies in render.
      * Add information for showing how many movies left in the database.
      * Add a table in render to contain movies information.
-     * [link to vidly code]()
+     * Add a workflow file ci.yaml in ./github/workflow but failed when running action, failed in deploy part. Haven't figure it out why.
+     * [link to vidly code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/vidly).
 
