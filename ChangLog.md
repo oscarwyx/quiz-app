@@ -38,3 +38,18 @@
 * Sept 21th: Clone repo to VScode. Learn how to use VScode and connect VScode with Github.
 * Sept 21th: Add contact and about part to oscarwebpage
 * Sept 22th: Following the react online tutorial work with Tic-Tac-Toe app.[Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html)
+* Sept 23th: 
+ * Creat counter-app for number counting.
+  * Create components foloder.
+    * Add counter.jsx as counter component
+    * Add handleIncrement arrow function for update state.
+    * Add getBadgeClasses function for change background color in different condition
+    * Add formatCount function for change print text in different condition.
+ * import services folder as fake database, including fakeGenreSevice.js and fakeMoviesService.js
+ * creat vidly for movie table delete.
+  * Create components foloder.
+    * Add handleDelete arrow function for movies delete.
+    * Add information for no movies in render.
+    * Add information for showing how many movies left in the database.
+    * Add a table in render to contain movies information.
+
