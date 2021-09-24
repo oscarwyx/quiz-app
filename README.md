@@ -61,6 +61,19 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 * Use React online tutorial[link](https://www.w3schools.com/REACT/DEFAULT.ASP)
 * Do my first try of React.[link](https://oscarwyx.github.io/reactprac.html)
 * Follow the construction of vidoe tutorial, created two react app, counter & vildy.
-    * Counter did the counter job
-    * Vildy is a database of movies which can be delated by delete button.[link](http://oscarwyx.github.io/vidly)
+    * Counter app is a fundamental of an online shopping cart.
+        *Source code[link](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app).
+        * function:
+            * Add item.
+            * delete item.
+        * Here is a link to my youtube channel to check my temporary progress.[link](https://youtu.be/98fLikzaC_0).
+    * Vildy is a database of movies which can be delated by delete button.
+        * Source code[link](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/vidly).
+        *function:
+            * With injection movies database. it can show 9 movies' information on the screen.
+            * Click delete button you can delete the movie you do not want.
+            * On the head of the page, it will show how many movies remain on the screen.
+            * when there is no movie remain, it will show a different message.
+        * Here is a link to my youtube channel to show my temporary progress [link](https://www.youtube.com/watch?v=rIbAbDVtj6c).
+
 
