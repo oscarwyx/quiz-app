@@ -41,11 +41,17 @@
 * Sept 23th: 
   * Creat counter-app for number counting.
   * Create components foloder.
+    * Add counters.jsx as counters component, which can render multiple counter components inside.
+      * Add new state include 4 counter.
+      * Add handleDelete function for delete button.
     * Add counter.jsx as counter component
-    * Add handleIncrement arrow function for update state.
-    * Add getBadgeClasses function for change background color in different condition
-    * Add formatCount function for change print text in different condition.
+      * Add increment button.
+      * Add delete button.
+      * Add handleIncrement arrow function for update state.
+      * Add getBadgeClasses function for change background color in different condition
+      * Add formatCount function for change print text in different condition.
     * [link to counter-app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app).
+    * YouTube video for temp progress[Link to Youtube](https://www.youtube.com/watch?v=98fLikzaC_0)
   * import services folder as fake database, including fakeGenreSevice.js and fakeMoviesService.js
   * creat vidly for movie table delete.
    * Create components foloder.
