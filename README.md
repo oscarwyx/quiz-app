@@ -62,7 +62,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 * Do my first try of React.[link](https://oscarwyx.github.io/reactprac.html)
 * Follow the construction of vidoe tutorial, created two react app, counter & vildy.
     * Counter app is a fundamental of an online shopping cart.
-        *Source code[link](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app).
+        * Source code[link](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/counter-app).
         * function:
             * Add item.
             * delete item.
