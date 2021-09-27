@@ -1,15 +1,22 @@
 import React, { Component } from "react";
 import { getMovies } from "../services/fakeMovieService";
 import Like from './common/like';
+import ListGroup from "./common/listgroup";
 import Pagination from "./common/pagination";
 import { paginate } from "../utils/paginate";
+import { getGenres } from "../services/fakeGenreService";
 
 class Movies extends Component {
     state = {
-        movies: getMovies(),
+        movies: [],
+        genres: [],
         currentPage: 1,
         pageSize: 4
     };
+
+    componentDidMount(){
+        this.setState({ movies: getMovies(), genres: getGenres()});
+    }
 
     handleDelete = movie => {
         const movies = this.state.movies.filter(m => m._id !== movie._id);
@@ -29,6 +36,10 @@ class Movies extends Component {
         this.setState({ currentPage: page});
     }
 
+    handleGenreSelect = genre => {
+        console.log(genre);
+    };
+
     render() { 
         const { length: count } = this.state.movies;
         const {pageSize,currentPage,movies: allMovies} = this.state;
@@ -36,7 +47,11 @@ class Movies extends Component {
             return <p>There are no movies in the database.</p>;
         const movies = paginate(allMovies, currentPage, pageSize);
         return (
-            <React.Fragment>
+            <div className="row">
+                <div className="col-2">
+                    <ListGroup items={this.state.genres} onItemSelect={this.handleGenreSelect} />
+                </div>
+                <div className="col">
                 <p>Showing {count} movies in the database.</p>
             <table className="table">
                 <thead>
@@ -72,7 +87,8 @@ class Movies extends Component {
                 currentPage={currentPage}
                 onPageChange={this.handlePageChange}
                 />
-            </React.Fragment>
+                </div>              
+            </div>
         );
     }
 
