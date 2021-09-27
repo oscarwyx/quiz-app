@@ -37,7 +37,7 @@ class Movies extends Component {
     }
 
     handleGenreSelect = genre => {
-        console.log(genre);
+        this.setState({ selectedGenre: genre});
     };
 
     render() { 
@@ -48,8 +48,11 @@ class Movies extends Component {
         const movies = paginate(allMovies, currentPage, pageSize);
         return (
             <div className="row">
-                <div className="col-2">
-                    <ListGroup items={this.state.genres} onItemSelect={this.handleGenreSelect} />
+                <div className="col-3">
+                    <ListGroup 
+                    items={this.state.genres} 
+                    selectedItem={this.state.selectedGenre}
+                    onItemSelect={this.handleGenreSelect} />
                 </div>
                 <div className="col">
                 <p>Showing {count} movies in the database.</p>
