@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class TableHeader extends React.Component {
+class TableHeader extends Component {
     raiseSort = path => {
         const sortColumn = {...this.props.sortColumn};
         if (sortColumn.path === path)
