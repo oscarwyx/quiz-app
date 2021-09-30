@@ -46,3 +46,14 @@
       * I try to link it with github page, but failed, so I make a video on youtube.[Youtube](https://www.youtube.com/watch?v=rIbAbDVtj6c)
    * Link react local host 3000 with github.=> I have try, but faild.
    * Coding with video tutorial in Chapter 4.
+## Milestone 4
+* Sept 24-26
+  * Add function to counter-app
+    *
+  * Add function to vidly movie app
+    *
+* Sept 27-30 
+  * Create a new react app with typescrit
+  * It will be a quiz app
+  * Add function to quiz app
+    *
