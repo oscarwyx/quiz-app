@@ -99,6 +99,9 @@
   * Add utils.ts 
   * update App.tsx
   * Style the whole quiz-app
+* Sept 30th:
+  * Publish qiuz-app as a github react app on github page.[link](https://oscarwyx.github.io/quiz-app/)
+  * Publish counter-app as a github react app on github page.[link]()
 <<<<<<< HEAD
 
 
