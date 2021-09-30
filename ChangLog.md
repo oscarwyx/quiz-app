@@ -61,4 +61,42 @@
      * Add a table in render to contain movies information.
      * Add a workflow file ci.yaml in ./github/workflow but failed when running action, failed in deploy part. Haven't figure it out why.
      * [link to vidly code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/vidly).
+* Sept 24th:
+  * Add counters.jsx in components floder
+    * add componentDidUpdate function
+    * add componentWillUnmount function
+    * render counter component in counters component to make code more clean
+  * Add navbar.jsx in components floder
+    * add a navbar arrow function 
+    * render totalCounter in navigatiuon bar.
+* Sept 25th:
+  * Add utils floder
+    * add paginate.js in this floder
+      * add paginate function
+  * Add common floder for reuseable components
+    * add listgroup.jsx
+      * add listgroup function which can go to different genres by click
+      * set up default properties
+    * add pagination.jsx
+      * add pagination function
+* Sept 26th:
+  * add table.jsx
+     * this is a table frame for reuse
+  * add tablebody.jsx
+     * this is a table body frame for reuse
+  * add tableHeader.jsx
+     * this is a tbale header frame for reuse.
+* Sept 27th:
+  * update App.js in vidly
+  * learning typescript with tutorial
+  * Start with typescript react app setup
+  * working on react app deploying
+* Sept 28th:
+  * Add question API.ts for question import
+  * Add backgroud image
+  * Add questionCard.tsx and questioncard.style.ts for question card and its style.
+* Sept 29th:
+  * Add utils.ts 
+  * update App.tsx
+  * Style the whole quiz-app
 
