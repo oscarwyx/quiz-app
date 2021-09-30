@@ -99,6 +99,9 @@
   * Add utils.ts 
   * update App.tsx
   * Style the whole quiz-app
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/main
 

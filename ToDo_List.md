@@ -74,4 +74,7 @@
         * Score showing
         * Show correct answer after user click
         * random the position of correct answers
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
