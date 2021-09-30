@@ -46,3 +46,32 @@
       * I try to link it with github page, but failed, so I make a video on youtube.[Youtube](https://www.youtube.com/watch?v=rIbAbDVtj6c)
    * Link react local host 3000 with github.=> I have try, but faild.
    * Coding with video tutorial in Chapter 4.
+## Milestone 4
+* Sept 24-26
+  * Add function to counter-app
+      * Add counters component: which can use to render counter component.
+      * Add navbar component.
+      * Add Reset function.
+      * Make delete button disabled when number goes to zero.
+  * Add function to vidly movie app
+      * Add pagination function.
+      * Add listgroup function for different movie genre.
+      * Add sorting function.
+      * Create a floder call common for reuseabl components.
+* Sept 27-28
+  * Learning typescript with tutorial.[youtube vidoe tutorial](https://www.youtube.com/watch?v=jrKcJxF0lAU)
+* Sept 29-30
+  * Create a new react app with typescrit.
+  * It will be a quiz app.
+  * All in typescript.
+  * Add function to quiz app
+    * Set up backgroud image.
+    * Improt question as an API.
+    * Set up questioncard component and style it.
+    * Style the whole quiz app.
+    * Add function to quiz app:
+        * Start and next button
+        * Score showing
+        * Show correct answer after user click
+        * random the position of correct answers
+
